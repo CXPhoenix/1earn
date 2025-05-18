@@ -15,9 +15,9 @@
     <img src="./assets/img/banner/readme.jpg">
 </p>
 
-* **簡介**：本專案的初衷是分享知識資源，讓更多人接觸和了解資安、運維領域，但受限於本人能力有限，難免會有錯誤和借鑑的地方，對於內容中有疑問或建議請提交 issue。
+* **簡介**：本專案的初衷是分享知識資源，讓更多人接觸和了解資安、運維領域，但原團隊表示：「受限於本人能力有限，難免會有錯誤和借鑑的地方，對於內容中有疑問或建議請提交 issue」。
 * **定位**：ffffffff0x 團隊維護的資安知識框架
-* **專案地址**：[GitHub 專案頁面](https://github.com/ffffffff0x/1earn)
+* **專案地址**：[原始 GitHub 專案頁面](https://github.com/ffffffff0x/1earn)
 * **學習路線圖**：初學者或想快速建構知識結構請訪問 [roadmap](./roadmap.md)
 
 ---
@@ -42,11 +42,11 @@
 
     * **BlueTeam**
         * [分析](./1earn/Security/BlueTeam/分析.md) - 分析工具與分析案例
-        * [加固](./1earn/Security/BlueTeam/加固.md) - 系統、應用加固的方法和工具資源
+        * [安全強化](./1earn/Security/BlueTeam/加固.md) - 系統、應用程式安全強化的方法和工具資源
         * [資安建設](./1earn/Security/BlueTeam/安全建設.md) - 有關查殺、監控、蜜罐的資源
-        * [取證](./1earn/Security/BlueTeam/取證.md) - 內容涉及作業系統的取證、web 的取證、檔案的取證
+        * [鑑識](./1earn/Security/BlueTeam/取證.md) - 內容涉及作業系統的鑑識、web 的鑑識、檔案的鑑識
         * [應急](./1earn/Security/BlueTeam/應急.md) - 應急資源、溯源案例
-        * [筆記](./1earn/Security/BlueTeam/筆記) - 涉及磁碟取證、記憶體取證、USB 取證等內容
+        * [筆記](./1earn/Security/BlueTeam/筆記) - 涉及磁碟鑑識、記憶體鑑識、USB 鑑識等內容
         * [實驗](./1earn/Security/BlueTeam/實驗) - 涉及流量分析實戰、安防設施搭建等內容
 
     * **Crypto**
