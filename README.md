@@ -4,8 +4,8 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Category-knowledge-red.svg">
-    <img src="https://img.shields.io/github/repo-size/No-Github/1earn?color=yellow">
-    <img src="https://img.shields.io/github/last-commit/No-Github/1earn.svg?color=blue">
+    <img src="https://img.shields.io/github/repo-size/CXPhoenix/1earn?color=yellow">
+    <img src="https://img.shields.io/github/last-commit/CXPhoenix/1earn.svg?color=blue">
     <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?color=brightgreen">
 </p>
 
